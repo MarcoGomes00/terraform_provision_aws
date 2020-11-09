@@ -1,11 +1,7 @@
 # Terraform
-.tfstate
-.tfstate.backup
-.terraform
-
-# IDE
-.idea/
-.vscode/
+*.tfstate
+*.tfstate.backup
+*.terraform
 
 # Binary files
 ## This is not meant to be a comprehensive list; just ignoring common cases.
